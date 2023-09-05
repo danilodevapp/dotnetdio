@@ -1,0 +1,14 @@
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\diointer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\diointer.AssemblyInfoInputs.cache
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\diointer.AssemblyInfo.cs
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\diointer.csproj.CoreCompileInputs.cache
+C:\CSharp\DIO\diointer\bin\Debug\net8.0\diointer.exe
+C:\CSharp\DIO\diointer\bin\Debug\net8.0\diointer.deps.json
+C:\CSharp\DIO\diointer\bin\Debug\net8.0\diointer.runtimeconfig.json
+C:\CSharp\DIO\diointer\bin\Debug\net8.0\diointer.dll
+C:\CSharp\DIO\diointer\bin\Debug\net8.0\diointer.pdb
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\diointer.dll
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\refint\diointer.dll
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\diointer.pdb
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\diointer.genruntimeconfig.cache
+C:\CSharp\DIO\diointer\obj\Debug\net8.0\ref\diointer.dll
